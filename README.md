@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science projects focusing on structured datasets, preprocessing pipelines, and applied machine learning.<br><br>🤝 I’m looking to collaborate on AI powered data analysis, model optimization, and opensource ML tools.<br><br>👐 I’m looking for help with efficient deployment of local LLMs and lightweight model inference setups.<br><br>🌱 I’m currently learning Large Language Models (LLMs), fine-tuning, LoRA adapters, and realworld applications.<br><br>💬 Ask me about machine learning workflows
+🔭 I’m currently working on Data Science projects focusing on structured datasets, preprocessing pipelines, and applied machine learning.<br><br>🤝 I’m looking to collaborate on AI powered data analysis, model optimization, and opensource ML tools.<br><br>👐 I’m looking for help with efficient deployment of local LLMs and lightweight model inference setups.<br><br>🌱 I’m currently learning Large Language Models, fine-tuning, LoRA adapters, and realworld applications.<br><br>💬 Ask me about machine learning workflows
 
 
 ## 🌐 Socials:
