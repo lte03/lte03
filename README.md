@@ -16,16 +16,16 @@
 ## 📁 Projects
 
 ### 🔀 [lokman_pp_deneyler](https://github.com/lte03/lokman_pp_deneyler) — Pipeline Parallelism (2025)
-LLM fine-tuning üzerine pipeline paralelizm deneyleri. GPipe ve 1F1B schedulerleri kullanılarak 2 GPU üzerinde model eğitimi ve inference gerçekleştirildi. Jupyter Notebook tabanlı deneysel çalışmalar içerir.
+Experiments on pipeline parallelism for LLM fine-tuning. Model training and inference were performed on 2 GPUs using GPipe and 1F1B schedulers. Contains Jupyter Notebook-based experimental work.
 
 ### 🏦 [ING-Datathon-Solutions](https://github.com/lte03/ING-Datathon-Solutions) — ING Datathon (2025)
-Team LLMismo olarak katılınan ING Datathon yarışması çözümleri. Jupyter Notebook tabanlı, yapılandırılmış veri üzerinde makine öğrenmesi ve LLM çözümleri geliştirildi.
+Competition solutions for the ING Datathon participated as Team LLMismo. Jupyter Notebook-based machine learning and LLM solutions developed on structured data.
 
-### 🛒 [trainedyol](https://github.com/lte03/trainedyol) — Trendyol Hackathon — 2nd Place 🥈 (2025)
-Trendyol Hackathon'unda **2. lik** kazanan proje. Python ile geliştirildi.
+### 🛒 [TEKNOFEST-Trendyol-E-Ticaret-Hackathonu-2025-2st-Solution-KTT-TrainedYol](https://github.com/lte03/TEKNOFEST-Trendyol-E-Ticaret-Hackathonu-2025-2st-Solution-KTT-TrainedYol) — Trendyol Hackathon — 2nd Place 🥈 (2025)
+The project that won **2nd place** at the TEKNOFEST Trendyol E-Commerce Hackathon 2025. Developed with Python by Team KTT TrainedYol.
 
 ### 🧠 [Artifical_Neural_Networks](https://github.com/lte03/Artifical_Neural_Networks) — ANN Library (2022)
-C# ile sıfırdan yazılmış yapay sinir ağı kütüphanesi. Forward propagation, backward propagation, özelleştirilebilir katman ve aktivasyon fonksiyonları, hata fonksiyonları (error functions) ve SGD tabanlı ağırlık güncelleme mekanizmaları içerir.
+An artificial neural network library written from scratch in C#. Includes forward propagation, backward propagation, customizable layers and activation functions, error functions, and SGD-based weight update mechanisms.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lte03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
