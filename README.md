@@ -18,11 +18,11 @@
 ### 🔀 [lokman_pp_deneyler](https://github.com/lte03/lokman_pp_deneyler) — Pipeline Parallelism (2025)
 LLM fine-tuning üzerine pipeline paralelizm deneyleri. GPipe ve 1F1B schedulerleri kullanılarak 2 GPU üzerinde model eğitimi ve inference gerçekleştirildi. Jupyter Notebook tabanlı deneysel çalışmalar içerir.
 
+### 🏦 [ING-Datathon-Solutions](https://github.com/lte03/ING-Datathon-Solutions) — ING Datathon (2025)
+Team LLMismo olarak katılınan ING Datathon yarışması çözümleri. Jupyter Notebook tabanlı, yapılandırılmış veri üzerinde makine öğrenmesi ve LLM çözümleri geliştirildi.
+
 ### 🛒 [trainedyol](https://github.com/lte03/trainedyol) — Trendyol Hackathon — 2nd Place 🥈 (2025)
 Trendyol Hackathon'unda **2. lik** kazanan proje. Python ile geliştirildi.
-
-### 🏦 ING Datathon (2025)
-ING Datathon yarışmasına katılım. Yapılandırılmış veri üzerinde makine öğrenmesi çözümleri geliştirildi.
 
 ### 🧠 [Artifical_Neural_Networks](https://github.com/lte03/Artifical_Neural_Networks) — ANN Library (2022)
 C# ile sıfırdan yazılmış yapay sinir ağı kütüphanesi. Forward propagation, backward propagation, özelleştirilebilir katman ve aktivasyon fonksiyonları, hata fonksiyonları (error functions) ve SGD tabanlı ağırlık güncelleme mekanizmaları içerir.
