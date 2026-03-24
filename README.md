@@ -4,7 +4,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://your-dark-banner-url.com">
   <source media="(prefers-color-scheme: light)" srcset="https://your-light-banner-url.com">
-  <img alt="Your Banner" src="https://default-banner-url.com">
 </picture>
 
 ## 🌐 Socials:
